@@ -1,4 +1,4 @@
-# Ledger — private, local-first expense tracker
+# Ledger - private, local-first expense tracker
 
 Manual-entry expense tracker. No backend, no accounts, no SMS/bank access, no analytics, no external requests (a CSP enforces this). Data lives in your browser's IndexedDB.
 
